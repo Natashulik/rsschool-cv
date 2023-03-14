@@ -19,12 +19,12 @@ I have worked for more than ten years in the corporate lending department of a c
 
 
 ---
-#### Skills and Proficiency:
+#### Skills and Proficiency
 * HTML5, CSS3
 * JavaScript 
 * Git, GitHub
 ---
-#### Code example:
+#### Code example
 KATA from CODEWARS: Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
 
     function validParentheses(str) {
