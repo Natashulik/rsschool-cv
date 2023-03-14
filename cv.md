@@ -47,4 +47,4 @@ Faculty of Finance and Credit)
 
 
 * Russian (Native)
-* English 
+* English (B1-B2)
