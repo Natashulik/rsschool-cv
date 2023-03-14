@@ -24,3 +24,13 @@ I have worked for more than ten years in the corporate lending department of a c
 * JavaScript 
 * Git, GitHub
 ---
+#### Code example:
+KATA from CODEWARS: Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
+
+    function validParentheses(str) {
+        while(str.includes('()')) {
+        str = str.replace(/\(\)/g, '');
+     }  return str.length===0 ? true : false;
+    }
+
+---
