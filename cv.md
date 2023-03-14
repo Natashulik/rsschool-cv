@@ -34,3 +34,17 @@ KATA from CODEWARS: Write a function that takes a string of parentheses, and det
     }
 
 ---
+#### Education
+* Belarusian State Economic University (Faculty of banking)
+* Magistracy of Belarusian State Economic University  (
+Faculty of Finance and Credit)
+* Courses:
+  * Redev (JavaScript)
+  * Redev (React /Redux - in progress)
+
+---
+#### Languages
+
+
+* Russian (Native)
+* English 
